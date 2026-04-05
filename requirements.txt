@@ -4,4 +4,3 @@ pandas>=2.3.3
 numpy>=2.2.6
 requests>=2.32.5
 joblib>=1.5.3
-sklearn>=0.0
